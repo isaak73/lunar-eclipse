@@ -1,0 +1,13 @@
+Unfortunately, determining the date of a lunar eclipse is a complex task that requires knowledge of astronomy and the positions of celestial bodies. A simple JavaScript code would not be able to accurately predict the date of a lunar eclipse.
+
+However, you can use JavaScript to display the date of the next lunar eclipse, once it is known. Here's an example of how you can use the JavaScript Date object to display the date of the next lunar eclipse:
+
+
+
+// Replace with actual date of the next lunar eclipse
+var lunarEclipseDate = new Date("2022-11-08T19:48:00");
+
+console.log("The next lunar eclipse will occur on: " + lunarEclipseDate);
+
+
+You will need to replace the date and time with the actual date and time of the next lunar eclipse, which you can find from astronomical websites or organizations.
